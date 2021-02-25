@@ -9,7 +9,7 @@ Project name{
      Muhudin Abdi
      
      
-  Languages use:
+  Languages used:
   
   1.HTML
   2.CSS
