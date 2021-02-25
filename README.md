@@ -3,4 +3,4 @@ Project name{
    Akan names
    
    Author :
-     MuhUdin Abdi
+     Muhudin Abdi
