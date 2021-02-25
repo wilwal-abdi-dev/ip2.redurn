@@ -1,3 +1,6 @@
 Project name{
 
-Akan names
+   Akan names
+   
+   Author :
+     MuhUdin Abdi
