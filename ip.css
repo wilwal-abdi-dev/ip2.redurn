@@ -28,6 +28,7 @@ body {
     transform: translate(-50% -50%);
     top: 50%;
 }
+
 .form input{
     font-family: "Roboto", sans-serif;
     outline: 1;
