@@ -11,7 +11,7 @@ Project name{
   license{
      MIT License
 
-Copyright (c) [2021] [fullname]
+Copyright (c) [2021] [Muhudin Abdi]
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
